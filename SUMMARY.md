@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Slicing](slicing.md)
+* [Indexing](slicing.md)
 

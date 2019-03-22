@@ -10,9 +10,23 @@ Multiple columns and rows can be selected together using the .iloc indexer.[http
 
 ![](/assets/import1.png)
 
+[http://www.pythoninformer.com/python-libraries/numpy/index-and-slice/](http://www.pythoninformer.com/python-libraries/numpy/index-and-slice/)
 
+  nice examples for 3d arrays
 
 
 
 ![](/assets/import3.png)
+
+
+
+
+
+
+
+[https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)
+
+
+
+Indexing two-dimensional data is similar to indexing one-dimensional data, except that a comma is used to separate the index for each dimension.
 
