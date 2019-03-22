@@ -1,3 +1,9 @@
+### **Indexing**
+
+
+
+
+
 [https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)
 
 The iloc indexer syntax is data.iloc\[&lt;row selection&gt;, &lt;column selection&gt;\], which is sure to be a source of confusion for R users. “iloc” in pandas is used to select rows and columns by number, in the order that they appear in the data frame. You can imagine that each row has a row number from 0 to the total rows \(data.shape\[0\]\)  and iloc\[\] allows selections based on these numbers. The same applies for columns \(ranging from 0 to data.shape\[1\] \)
@@ -12,21 +18,11 @@ Multiple columns and rows can be selected together using the .iloc indexer.[http
 
 [http://www.pythoninformer.com/python-libraries/numpy/index-and-slice/](http://www.pythoninformer.com/python-libraries/numpy/index-and-slice/)
 
-  nice examples for 3d arrays
-
-
+nice examples for 3d arrays
 
 ![](/assets/import3.png)
 
-
-
-
-
-
-
 [https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)
-
-
 
 Indexing two-dimensional data is similar to indexing one-dimensional data, except that a comma is used to separate the index for each dimension.
 
