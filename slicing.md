@@ -24,6 +24,8 @@ Indexing two-dimensional data is similar to indexing one-dimensional data, excep
 
 ## **Slicing**
 
+[https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/](#)
+
 ### Two-Dimensional Slicing
 
 Let’s look at the two examples of two-dimensional slicing you are most likely to use in machine learning.
@@ -36,9 +38,9 @@ We can do this by slicing all rows and all columns up to, but before the last co
 
 For the input features, we can select all rows and all columns except the last one by specifying ‘:’ for in the rows index, and :-1 in the columns index.
 
+### 
 
-
-
+[http://structure.usc.edu/numarray/node26.html](http://structure.usc.edu/numarray/node26.html)
 
 ### Michael Heydt - Learning Pandas-Packt Publishing \(2015\)
 
