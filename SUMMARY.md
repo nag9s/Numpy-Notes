@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Indexing](slicing.md)
-* Slicing
+* [Slicing](slicing.md)
 
